@@ -1,0 +1,40 @@
+1664640890495	mozrunner::runner	INFO	Running command: "/snap/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.oCLAv9MBEEpH"
+Gtk-Message: 11:14:50.861: Failed to load module "canberra-gtk-module"
+Gtk-Message: 11:14:50.864: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664640895755	geckodriver	INFO	Listening on 127.0.0.1:34959
+1664640896762	mozrunner::runner	INFO	Running command: "/snap/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8oxHWr"
+Gtk-Message: 11:14:57.421: Failed to load module "canberra-gtk-module"
+Gtk-Message: 11:14:57.423: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664640901387	geckodriver	INFO	Listening on 127.0.0.1:59823
+1664640901393	mozrunner::runner	INFO	Running command: "/snap/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilem1kHNM"
+Gtk-Message: 11:15:01.650: Failed to load module "canberra-gtk-module"
+Gtk-Message: 11:15:01.657: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664640970743	mozrunner::runner	INFO	Running command: "/snap/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.0m0ohAr6Gn8f"
+Gtk-Message: 11:16:11.028: Failed to load module "canberra-gtk-module"
+Gtk-Message: 11:16:11.032: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664640975678	geckodriver	INFO	Listening on 127.0.0.1:52599
+1664640976684	mozrunner::runner	INFO	Running command: "/snap/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFxMRw1"
+Gtk-Message: 11:16:17.067: Failed to load module "canberra-gtk-module"
+Gtk-Message: 11:16:17.069: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664640981240	geckodriver	INFO	Listening on 127.0.0.1:58037
+1664640981243	mozrunner::runner	INFO	Running command: "/snap/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilec9GEGk"
+Gtk-Message: 11:16:21.447: Failed to load module "canberra-gtk-module"
+Gtk-Message: 11:16:21.449: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.

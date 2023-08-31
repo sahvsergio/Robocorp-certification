@@ -1,0 +1,879 @@
+{"level":30,"time":"2022-09-22T01:14:50.966Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Listening on 41113"}
+{"level":30,"time":"2022-09-22T01:14:51.029Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method newPage"}
+{"level":30,"time":"2022-09-22T01:14:51.029Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"currentBrowser: undefined"}
+{"level":30,"time":"2022-09-22T01:14:51.362Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Changed active context"}
+{"level":30,"time":"2022-09-22T01:14:51.515Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Video path: undefined"}
+{"level":30,"time":"2022-09-22T01:14:51.516Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Changed active page"}
+{"level":30,"time":"2022-09-22T01:14:53.771Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method newPage"}
+{"level":30,"time":"2022-09-22T01:14:53.775Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:14:53.776Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#username in page."}
+{"level":30,"time":"2022-09-22T01:14:53.833Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:14:53.835Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:14:53.835Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#password in page."}
+{"level":30,"time":"2022-09-22T01:14:53.980Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:14:53.983Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method click"}
+{"level":30,"time":"2022-09-22T01:14:53.983Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with text=Log in in page."}
+{"level":30,"time":"2022-09-22T01:14:54.038Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method click"}
+{"level":30,"time":"2022-09-22T01:14:54.498Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:14:54.498Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-09-22T01:14:57.044Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:14:57.046Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:14:57.046Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-09-22T01:14:57.076Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:14:57.078Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:14:57.078Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-09-22T01:14:57.104Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:14:57.106Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:14:57.106Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-09-22T01:14:57.131Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Option entries: 20"}
+{"level":30,"time":"2022-09-22T01:14:57.132Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Selected entries: 1"}
+{"level":30,"time":"2022-09-22T01:14:57.132Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:14:57.134Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method click"}
+{"level":30,"time":"2022-09-22T01:14:57.134Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-09-22T01:14:57.275Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method click"}
+{"level":30,"time":"2022-09-22T01:14:57.278Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:14:57.278Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-09-22T01:14:57.323Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:14:57.325Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:14:57.325Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-09-22T01:14:57.353Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:14:57.354Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:14:57.354Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-09-22T01:14:57.379Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:14:57.381Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:14:57.381Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-09-22T01:14:57.404Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Option entries: 20"}
+{"level":30,"time":"2022-09-22T01:14:57.404Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Selected entries: 1"}
+{"level":30,"time":"2022-09-22T01:14:57.404Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:14:57.407Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method click"}
+{"level":30,"time":"2022-09-22T01:14:57.407Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-09-22T01:14:57.670Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method click"}
+{"level":30,"time":"2022-09-22T01:14:57.672Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:14:57.672Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-09-22T01:14:57.725Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:14:57.727Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:14:57.727Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-09-22T01:14:57.750Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:14:57.751Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:14:57.751Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-09-22T01:14:57.774Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:14:57.776Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:14:57.776Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-09-22T01:14:57.794Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Option entries: 20"}
+{"level":30,"time":"2022-09-22T01:14:57.795Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Selected entries: 1"}
+{"level":30,"time":"2022-09-22T01:14:57.795Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:14:57.796Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method click"}
+{"level":30,"time":"2022-09-22T01:14:57.796Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-09-22T01:14:57.885Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method click"}
+{"level":30,"time":"2022-09-22T01:14:57.887Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:14:57.888Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-09-22T01:14:57.944Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:14:57.947Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:14:57.947Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-09-22T01:14:57.975Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:14:57.977Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:14:57.977Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-09-22T01:14:58.009Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:14:58.011Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:14:58.011Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-09-22T01:14:58.034Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Option entries: 20"}
+{"level":30,"time":"2022-09-22T01:14:58.034Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Selected entries: 1"}
+{"level":30,"time":"2022-09-22T01:14:58.034Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:14:58.036Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method click"}
+{"level":30,"time":"2022-09-22T01:14:58.036Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-09-22T01:14:58.192Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method click"}
+{"level":30,"time":"2022-09-22T01:14:58.195Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:14:58.195Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-09-22T01:14:58.257Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:14:58.259Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:14:58.259Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-09-22T01:14:58.287Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:14:58.288Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:14:58.288Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-09-22T01:14:58.312Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:14:58.313Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:14:58.313Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-09-22T01:14:58.336Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Option entries: 20"}
+{"level":30,"time":"2022-09-22T01:14:58.337Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Selected entries: 1"}
+{"level":30,"time":"2022-09-22T01:14:58.337Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:14:58.338Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method click"}
+{"level":30,"time":"2022-09-22T01:14:58.339Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-09-22T01:14:58.509Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method click"}
+{"level":30,"time":"2022-09-22T01:14:58.511Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:14:58.511Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-09-22T01:14:58.563Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:14:58.565Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:14:58.565Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-09-22T01:14:58.593Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:14:58.594Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:14:58.594Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-09-22T01:14:58.626Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:14:58.628Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:14:58.628Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-09-22T01:14:58.648Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Option entries: 20"}
+{"level":30,"time":"2022-09-22T01:14:58.649Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Selected entries: 1"}
+{"level":30,"time":"2022-09-22T01:14:58.649Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:14:58.650Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method click"}
+{"level":30,"time":"2022-09-22T01:14:58.650Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-09-22T01:14:58.886Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method click"}
+{"level":30,"time":"2022-09-22T01:14:58.888Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:14:58.888Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-09-22T01:14:58.942Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:14:58.944Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:14:58.944Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-09-22T01:14:58.970Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:14:58.972Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:14:58.972Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-09-22T01:14:58.993Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:14:58.994Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:14:58.994Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-09-22T01:14:59.012Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Option entries: 20"}
+{"level":30,"time":"2022-09-22T01:14:59.012Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Selected entries: 1"}
+{"level":30,"time":"2022-09-22T01:14:59.013Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:14:59.014Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method click"}
+{"level":30,"time":"2022-09-22T01:14:59.014Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-09-22T01:14:59.137Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method click"}
+{"level":30,"time":"2022-09-22T01:14:59.139Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:14:59.139Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-09-22T01:14:59.188Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:14:59.190Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:14:59.191Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-09-22T01:14:59.214Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:14:59.216Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:14:59.216Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-09-22T01:14:59.240Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:14:59.241Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:14:59.242Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-09-22T01:14:59.266Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Option entries: 20"}
+{"level":30,"time":"2022-09-22T01:14:59.266Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Selected entries: 1"}
+{"level":30,"time":"2022-09-22T01:14:59.267Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:14:59.268Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method click"}
+{"level":30,"time":"2022-09-22T01:14:59.268Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-09-22T01:14:59.400Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method click"}
+{"level":30,"time":"2022-09-22T01:14:59.403Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:14:59.404Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-09-22T01:14:59.463Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:14:59.465Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:14:59.465Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-09-22T01:14:59.491Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:14:59.493Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:14:59.493Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-09-22T01:14:59.518Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:14:59.519Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:14:59.519Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-09-22T01:14:59.540Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Option entries: 20"}
+{"level":30,"time":"2022-09-22T01:14:59.540Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Selected entries: 1"}
+{"level":30,"time":"2022-09-22T01:14:59.540Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:14:59.542Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method click"}
+{"level":30,"time":"2022-09-22T01:14:59.542Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-09-22T01:14:59.725Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method click"}
+{"level":30,"time":"2022-09-22T01:14:59.728Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:14:59.728Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-09-22T01:14:59.797Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:14:59.798Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:14:59.798Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-09-22T01:14:59.827Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:14:59.828Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:14:59.828Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-09-22T01:14:59.851Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:14:59.852Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:14:59.852Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-09-22T01:14:59.872Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Option entries: 20"}
+{"level":30,"time":"2022-09-22T01:14:59.872Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Selected entries: 1"}
+{"level":30,"time":"2022-09-22T01:14:59.872Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:14:59.874Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method click"}
+{"level":30,"time":"2022-09-22T01:14:59.874Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-09-22T01:15:00.101Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method click"}
+{"level":30,"time":"2022-09-22T01:15:00.103Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:00.103Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-09-22T01:15:00.159Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:00.161Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:00.161Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-09-22T01:15:00.183Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:00.184Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:00.184Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-09-22T01:15:00.214Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:00.216Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:00.216Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-09-22T01:15:00.235Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Option entries: 20"}
+{"level":30,"time":"2022-09-22T01:15:00.236Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Selected entries: 1"}
+{"level":30,"time":"2022-09-22T01:15:00.236Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:00.237Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method click"}
+{"level":30,"time":"2022-09-22T01:15:00.237Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-09-22T01:15:00.543Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method click"}
+{"level":30,"time":"2022-09-22T01:15:00.545Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:00.545Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-09-22T01:15:00.624Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:00.625Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:00.626Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-09-22T01:15:00.645Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:00.647Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:00.647Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-09-22T01:15:00.678Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:00.679Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:00.679Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-09-22T01:15:00.700Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Option entries: 20"}
+{"level":30,"time":"2022-09-22T01:15:00.700Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Selected entries: 1"}
+{"level":30,"time":"2022-09-22T01:15:00.700Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:00.702Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method click"}
+{"level":30,"time":"2022-09-22T01:15:00.702Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-09-22T01:15:00.952Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method click"}
+{"level":30,"time":"2022-09-22T01:15:00.954Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:00.954Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-09-22T01:15:01.012Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:01.014Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:01.014Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-09-22T01:15:01.046Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:01.048Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:01.048Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-09-22T01:15:01.069Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:01.070Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:01.070Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-09-22T01:15:01.092Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Option entries: 20"}
+{"level":30,"time":"2022-09-22T01:15:01.092Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Selected entries: 1"}
+{"level":30,"time":"2022-09-22T01:15:01.093Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:01.094Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method click"}
+{"level":30,"time":"2022-09-22T01:15:01.094Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-09-22T01:15:01.358Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method click"}
+{"level":30,"time":"2022-09-22T01:15:01.360Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:01.360Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-09-22T01:15:01.404Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:01.405Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:01.405Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-09-22T01:15:01.435Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:01.436Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:01.437Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-09-22T01:15:01.465Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:01.467Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:01.467Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-09-22T01:15:01.492Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Option entries: 20"}
+{"level":30,"time":"2022-09-22T01:15:01.492Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Selected entries: 1"}
+{"level":30,"time":"2022-09-22T01:15:01.492Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:01.494Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method click"}
+{"level":30,"time":"2022-09-22T01:15:01.494Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-09-22T01:15:01.616Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method click"}
+{"level":30,"time":"2022-09-22T01:15:01.618Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:01.619Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-09-22T01:15:01.682Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:01.684Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:01.684Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-09-22T01:15:01.704Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:01.706Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:01.706Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-09-22T01:15:01.730Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:01.731Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:01.731Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-09-22T01:15:01.753Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Option entries: 20"}
+{"level":30,"time":"2022-09-22T01:15:01.753Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Selected entries: 1"}
+{"level":30,"time":"2022-09-22T01:15:01.753Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:01.754Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method click"}
+{"level":30,"time":"2022-09-22T01:15:01.755Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-09-22T01:15:01.971Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method click"}
+{"level":30,"time":"2022-09-22T01:15:01.973Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:01.973Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-09-22T01:15:02.023Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:02.026Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:02.026Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-09-22T01:15:02.047Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:02.049Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:02.049Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-09-22T01:15:02.073Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:02.075Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:02.075Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-09-22T01:15:02.101Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Option entries: 20"}
+{"level":30,"time":"2022-09-22T01:15:02.101Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Selected entries: 1"}
+{"level":30,"time":"2022-09-22T01:15:02.101Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:02.103Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method click"}
+{"level":30,"time":"2022-09-22T01:15:02.103Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-09-22T01:15:02.387Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method click"}
+{"level":30,"time":"2022-09-22T01:15:02.391Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:02.391Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-09-22T01:15:02.471Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:02.473Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:02.473Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-09-22T01:15:02.517Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:02.519Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:02.519Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-09-22T01:15:02.546Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:02.547Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:02.547Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-09-22T01:15:02.570Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Option entries: 20"}
+{"level":30,"time":"2022-09-22T01:15:02.570Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Selected entries: 1"}
+{"level":30,"time":"2022-09-22T01:15:02.570Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:02.572Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method click"}
+{"level":30,"time":"2022-09-22T01:15:02.573Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-09-22T01:15:02.809Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method click"}
+{"level":30,"time":"2022-09-22T01:15:02.812Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:02.812Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-09-22T01:15:02.861Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:02.862Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:02.862Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-09-22T01:15:02.880Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:02.881Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:02.881Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-09-22T01:15:02.903Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:02.905Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:02.905Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-09-22T01:15:02.926Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Option entries: 20"}
+{"level":30,"time":"2022-09-22T01:15:02.926Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Selected entries: 1"}
+{"level":30,"time":"2022-09-22T01:15:02.926Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:02.927Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method click"}
+{"level":30,"time":"2022-09-22T01:15:02.927Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-09-22T01:15:03.196Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method click"}
+{"level":30,"time":"2022-09-22T01:15:03.198Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:03.199Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-09-22T01:15:03.282Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:03.283Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:03.283Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-09-22T01:15:03.320Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:03.322Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:03.322Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-09-22T01:15:03.346Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:03.347Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:03.347Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-09-22T01:15:03.368Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Option entries: 20"}
+{"level":30,"time":"2022-09-22T01:15:03.368Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Selected entries: 1"}
+{"level":30,"time":"2022-09-22T01:15:03.368Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:03.369Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method click"}
+{"level":30,"time":"2022-09-22T01:15:03.369Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-09-22T01:15:03.601Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method click"}
+{"level":30,"time":"2022-09-22T01:15:03.603Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:03.603Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-09-22T01:15:03.666Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:03.667Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:03.667Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-09-22T01:15:03.695Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:03.697Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:03.697Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-09-22T01:15:03.723Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:03.725Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:03.725Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-09-22T01:15:03.746Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Option entries: 20"}
+{"level":30,"time":"2022-09-22T01:15:03.746Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Selected entries: 1"}
+{"level":30,"time":"2022-09-22T01:15:03.746Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:03.748Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method click"}
+{"level":30,"time":"2022-09-22T01:15:03.748Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-09-22T01:15:04.029Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method click"}
+{"level":30,"time":"2022-09-22T01:15:04.031Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:04.031Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-09-22T01:15:04.083Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:04.085Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:04.085Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-09-22T01:15:04.110Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:04.112Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:04.112Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-09-22T01:15:04.143Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:04.145Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:04.145Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-09-22T01:15:04.172Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Option entries: 20"}
+{"level":30,"time":"2022-09-22T01:15:04.172Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Selected entries: 1"}
+{"level":30,"time":"2022-09-22T01:15:04.172Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:04.175Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method click"}
+{"level":30,"time":"2022-09-22T01:15:04.175Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-09-22T01:15:04.334Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method click"}
+{"level":30,"time":"2022-09-22T01:15:04.336Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:04.336Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-09-22T01:15:04.396Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:04.398Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:04.398Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-09-22T01:15:04.424Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:04.425Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:04.425Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-09-22T01:15:04.451Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:04.452Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:04.452Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-09-22T01:15:04.475Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Option entries: 20"}
+{"level":30,"time":"2022-09-22T01:15:04.475Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Selected entries: 1"}
+{"level":30,"time":"2022-09-22T01:15:04.475Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:04.476Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method click"}
+{"level":30,"time":"2022-09-22T01:15:04.477Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-09-22T01:15:04.644Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method click"}
+{"level":30,"time":"2022-09-22T01:15:04.645Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:04.645Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-09-22T01:15:04.697Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:04.699Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:04.699Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-09-22T01:15:04.726Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:04.728Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:04.728Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-09-22T01:15:04.754Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:04.755Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:04.755Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-09-22T01:15:04.775Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Option entries: 20"}
+{"level":30,"time":"2022-09-22T01:15:04.775Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Selected entries: 1"}
+{"level":30,"time":"2022-09-22T01:15:04.775Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:04.777Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method click"}
+{"level":30,"time":"2022-09-22T01:15:04.777Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-09-22T01:15:04.915Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method click"}
+{"level":30,"time":"2022-09-22T01:15:04.919Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:04.919Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-09-22T01:15:04.987Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:04.989Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:04.989Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-09-22T01:15:05.024Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:05.026Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:05.026Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-09-22T01:15:05.058Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:05.060Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:05.060Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-09-22T01:15:05.097Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Option entries: 20"}
+{"level":30,"time":"2022-09-22T01:15:05.097Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Selected entries: 1"}
+{"level":30,"time":"2022-09-22T01:15:05.097Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:05.099Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method click"}
+{"level":30,"time":"2022-09-22T01:15:05.099Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-09-22T01:15:05.252Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method click"}
+{"level":30,"time":"2022-09-22T01:15:05.256Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:05.256Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-09-22T01:15:05.331Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:05.332Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:05.332Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-09-22T01:15:05.356Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:05.358Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:05.358Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-09-22T01:15:05.381Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:05.382Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:05.382Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-09-22T01:15:05.403Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Option entries: 20"}
+{"level":30,"time":"2022-09-22T01:15:05.403Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Selected entries: 1"}
+{"level":30,"time":"2022-09-22T01:15:05.403Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:05.405Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method click"}
+{"level":30,"time":"2022-09-22T01:15:05.405Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-09-22T01:15:05.657Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method click"}
+{"level":30,"time":"2022-09-22T01:15:05.659Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:05.659Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-09-22T01:15:05.720Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:05.721Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:05.721Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-09-22T01:15:05.745Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:05.747Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:05.747Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-09-22T01:15:05.776Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:05.777Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:05.777Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-09-22T01:15:05.798Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Option entries: 20"}
+{"level":30,"time":"2022-09-22T01:15:05.798Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Selected entries: 1"}
+{"level":30,"time":"2022-09-22T01:15:05.799Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:05.800Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method click"}
+{"level":30,"time":"2022-09-22T01:15:05.801Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-09-22T01:15:06.020Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method click"}
+{"level":30,"time":"2022-09-22T01:15:06.022Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:06.022Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-09-22T01:15:06.080Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:06.082Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:06.082Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-09-22T01:15:06.107Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:06.108Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:06.109Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-09-22T01:15:06.133Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:06.134Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:06.135Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-09-22T01:15:06.156Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Option entries: 20"}
+{"level":30,"time":"2022-09-22T01:15:06.156Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Selected entries: 1"}
+{"level":30,"time":"2022-09-22T01:15:06.156Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:06.158Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method click"}
+{"level":30,"time":"2022-09-22T01:15:06.158Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-09-22T01:15:06.240Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method click"}
+{"level":30,"time":"2022-09-22T01:15:06.242Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:06.242Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-09-22T01:15:06.299Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:06.300Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:06.300Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-09-22T01:15:06.327Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:06.329Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:06.329Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-09-22T01:15:06.353Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:06.355Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:06.355Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-09-22T01:15:06.375Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Option entries: 20"}
+{"level":30,"time":"2022-09-22T01:15:06.375Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Selected entries: 1"}
+{"level":30,"time":"2022-09-22T01:15:06.375Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:06.377Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method click"}
+{"level":30,"time":"2022-09-22T01:15:06.377Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-09-22T01:15:06.476Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method click"}
+{"level":30,"time":"2022-09-22T01:15:06.478Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:06.478Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-09-22T01:15:06.541Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:06.543Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:06.543Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-09-22T01:15:06.575Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:06.577Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:06.577Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-09-22T01:15:06.603Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:06.605Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:06.605Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-09-22T01:15:06.625Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Option entries: 20"}
+{"level":30,"time":"2022-09-22T01:15:06.625Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Selected entries: 1"}
+{"level":30,"time":"2022-09-22T01:15:06.625Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:06.626Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method click"}
+{"level":30,"time":"2022-09-22T01:15:06.626Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-09-22T01:15:06.899Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method click"}
+{"level":30,"time":"2022-09-22T01:15:06.900Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:06.901Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-09-22T01:15:06.965Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:06.967Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:06.967Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-09-22T01:15:06.994Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:06.995Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:06.995Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-09-22T01:15:07.021Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:07.023Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:07.023Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-09-22T01:15:07.043Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Option entries: 20"}
+{"level":30,"time":"2022-09-22T01:15:07.043Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Selected entries: 1"}
+{"level":30,"time":"2022-09-22T01:15:07.043Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:07.044Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method click"}
+{"level":30,"time":"2022-09-22T01:15:07.045Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-09-22T01:15:07.293Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method click"}
+{"level":30,"time":"2022-09-22T01:15:07.294Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:07.294Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-09-22T01:15:07.361Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:07.362Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:07.362Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-09-22T01:15:07.387Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:07.389Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:07.389Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-09-22T01:15:07.412Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:07.414Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:07.414Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-09-22T01:15:07.437Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Option entries: 20"}
+{"level":30,"time":"2022-09-22T01:15:07.437Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Selected entries: 1"}
+{"level":30,"time":"2022-09-22T01:15:07.437Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:07.439Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method click"}
+{"level":30,"time":"2022-09-22T01:15:07.439Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-09-22T01:15:07.703Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method click"}
+{"level":30,"time":"2022-09-22T01:15:07.705Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:07.705Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-09-22T01:15:07.788Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:07.789Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:07.790Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-09-22T01:15:07.815Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:07.816Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:07.817Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-09-22T01:15:07.843Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:07.844Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:07.844Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-09-22T01:15:07.865Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Option entries: 20"}
+{"level":30,"time":"2022-09-22T01:15:07.865Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Selected entries: 1"}
+{"level":30,"time":"2022-09-22T01:15:07.865Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:07.866Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method click"}
+{"level":30,"time":"2022-09-22T01:15:07.866Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-09-22T01:15:08.094Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method click"}
+{"level":30,"time":"2022-09-22T01:15:08.098Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:08.098Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-09-22T01:15:08.167Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:08.168Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:08.168Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-09-22T01:15:08.196Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:08.197Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:08.197Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-09-22T01:15:08.220Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:08.221Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:08.222Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-09-22T01:15:08.242Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Option entries: 20"}
+{"level":30,"time":"2022-09-22T01:15:08.242Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Selected entries: 1"}
+{"level":30,"time":"2022-09-22T01:15:08.242Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:08.243Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method click"}
+{"level":30,"time":"2022-09-22T01:15:08.243Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-09-22T01:15:08.342Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method click"}
+{"level":30,"time":"2022-09-22T01:15:08.344Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:08.344Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-09-22T01:15:08.413Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:08.415Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:08.415Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-09-22T01:15:08.440Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:08.442Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:08.443Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-09-22T01:15:08.467Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:08.468Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:08.468Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-09-22T01:15:08.490Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Option entries: 20"}
+{"level":30,"time":"2022-09-22T01:15:08.490Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Selected entries: 1"}
+{"level":30,"time":"2022-09-22T01:15:08.490Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:08.492Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method click"}
+{"level":30,"time":"2022-09-22T01:15:08.492Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-09-22T01:15:08.729Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method click"}
+{"level":30,"time":"2022-09-22T01:15:08.731Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:08.731Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-09-22T01:15:08.799Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:08.801Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:08.801Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-09-22T01:15:08.827Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:08.829Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:08.829Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-09-22T01:15:08.854Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:08.856Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:08.857Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-09-22T01:15:08.876Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Option entries: 20"}
+{"level":30,"time":"2022-09-22T01:15:08.877Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Selected entries: 1"}
+{"level":30,"time":"2022-09-22T01:15:08.877Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:08.878Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method click"}
+{"level":30,"time":"2022-09-22T01:15:08.878Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-09-22T01:15:09.137Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method click"}
+{"level":30,"time":"2022-09-22T01:15:09.140Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:09.140Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-09-22T01:15:09.211Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:09.212Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:09.212Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-09-22T01:15:09.232Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:09.233Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:09.233Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-09-22T01:15:09.259Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:09.260Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:09.260Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-09-22T01:15:09.282Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Option entries: 20"}
+{"level":30,"time":"2022-09-22T01:15:09.282Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Selected entries: 1"}
+{"level":30,"time":"2022-09-22T01:15:09.282Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:09.284Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method click"}
+{"level":30,"time":"2022-09-22T01:15:09.284Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-09-22T01:15:09.546Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method click"}
+{"level":30,"time":"2022-09-22T01:15:09.548Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:09.548Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-09-22T01:15:09.623Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:09.625Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:09.625Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-09-22T01:15:09.651Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:09.652Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:09.652Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-09-22T01:15:09.678Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:09.679Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:09.679Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-09-22T01:15:09.699Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Option entries: 20"}
+{"level":30,"time":"2022-09-22T01:15:09.699Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Selected entries: 1"}
+{"level":30,"time":"2022-09-22T01:15:09.700Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:09.701Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method click"}
+{"level":30,"time":"2022-09-22T01:15:09.701Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-09-22T01:15:09.970Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method click"}
+{"level":30,"time":"2022-09-22T01:15:09.972Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:09.972Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-09-22T01:15:10.023Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:10.025Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:10.026Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-09-22T01:15:10.049Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:10.050Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:10.050Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-09-22T01:15:10.072Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:10.074Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:10.074Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-09-22T01:15:10.092Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Option entries: 20"}
+{"level":30,"time":"2022-09-22T01:15:10.092Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Selected entries: 1"}
+{"level":30,"time":"2022-09-22T01:15:10.092Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:10.094Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method click"}
+{"level":30,"time":"2022-09-22T01:15:10.094Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-09-22T01:15:10.287Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method click"}
+{"level":30,"time":"2022-09-22T01:15:10.290Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:10.290Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-09-22T01:15:10.336Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:10.337Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:10.337Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-09-22T01:15:10.366Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:10.367Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:10.367Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-09-22T01:15:10.390Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:10.391Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:10.391Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-09-22T01:15:10.409Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Option entries: 20"}
+{"level":30,"time":"2022-09-22T01:15:10.410Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Selected entries: 1"}
+{"level":30,"time":"2022-09-22T01:15:10.410Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:10.411Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method click"}
+{"level":30,"time":"2022-09-22T01:15:10.411Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-09-22T01:15:10.571Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method click"}
+{"level":30,"time":"2022-09-22T01:15:10.573Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:10.574Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-09-22T01:15:10.639Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:10.641Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:10.641Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-09-22T01:15:10.671Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:10.673Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:10.673Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-09-22T01:15:10.694Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:10.695Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:10.695Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-09-22T01:15:10.715Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Option entries: 20"}
+{"level":30,"time":"2022-09-22T01:15:10.715Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Selected entries: 1"}
+{"level":30,"time":"2022-09-22T01:15:10.715Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:10.717Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method click"}
+{"level":30,"time":"2022-09-22T01:15:10.717Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-09-22T01:15:10.996Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method click"}
+{"level":30,"time":"2022-09-22T01:15:10.998Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:10.999Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-09-22T01:15:11.070Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:11.073Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:11.073Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-09-22T01:15:11.093Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:11.094Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:11.094Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-09-22T01:15:11.116Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:11.117Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:11.117Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-09-22T01:15:11.136Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Option entries: 20"}
+{"level":30,"time":"2022-09-22T01:15:11.136Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Selected entries: 1"}
+{"level":30,"time":"2022-09-22T01:15:11.136Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:11.137Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method click"}
+{"level":30,"time":"2022-09-22T01:15:11.137Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-09-22T01:15:11.386Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method click"}
+{"level":30,"time":"2022-09-22T01:15:11.388Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:11.388Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-09-22T01:15:11.456Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:11.458Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:11.458Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-09-22T01:15:11.480Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:11.481Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:11.482Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-09-22T01:15:11.504Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:11.506Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:11.506Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-09-22T01:15:11.524Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Option entries: 20"}
+{"level":30,"time":"2022-09-22T01:15:11.525Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Selected entries: 1"}
+{"level":30,"time":"2022-09-22T01:15:11.525Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:11.526Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method click"}
+{"level":30,"time":"2022-09-22T01:15:11.526Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-09-22T01:15:11.799Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method click"}
+{"level":30,"time":"2022-09-22T01:15:11.801Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:11.801Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-09-22T01:15:11.866Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:11.867Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:11.867Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-09-22T01:15:11.889Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:11.890Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:11.890Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-09-22T01:15:11.913Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:11.915Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:11.915Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-09-22T01:15:11.937Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Option entries: 20"}
+{"level":30,"time":"2022-09-22T01:15:11.937Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Selected entries: 1"}
+{"level":30,"time":"2022-09-22T01:15:11.937Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:11.939Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method click"}
+{"level":30,"time":"2022-09-22T01:15:11.939Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-09-22T01:15:12.099Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method click"}
+{"level":30,"time":"2022-09-22T01:15:12.102Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:12.103Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-09-22T01:15:12.181Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:12.182Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:12.182Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-09-22T01:15:12.201Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:12.202Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:12.202Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-09-22T01:15:12.226Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:12.227Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:12.227Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-09-22T01:15:12.246Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Option entries: 20"}
+{"level":30,"time":"2022-09-22T01:15:12.246Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Selected entries: 1"}
+{"level":30,"time":"2022-09-22T01:15:12.246Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:12.249Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method click"}
+{"level":30,"time":"2022-09-22T01:15:12.249Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-09-22T01:15:12.411Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method click"}
+{"level":30,"time":"2022-09-22T01:15:12.420Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:12.420Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-09-22T01:15:12.509Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:12.510Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:12.510Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-09-22T01:15:12.537Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:12.539Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:12.539Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-09-22T01:15:12.563Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:12.564Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:12.564Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-09-22T01:15:12.587Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Option entries: 20"}
+{"level":30,"time":"2022-09-22T01:15:12.588Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Selected entries: 1"}
+{"level":30,"time":"2022-09-22T01:15:12.588Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:12.590Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method click"}
+{"level":30,"time":"2022-09-22T01:15:12.590Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-09-22T01:15:12.832Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method click"}
+{"level":30,"time":"2022-09-22T01:15:12.835Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:12.835Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-09-22T01:15:12.908Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:12.910Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:12.910Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-09-22T01:15:12.933Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:12.935Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:12.935Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-09-22T01:15:12.958Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:12.959Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:12.960Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-09-22T01:15:12.979Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Option entries: 20"}
+{"level":30,"time":"2022-09-22T01:15:12.979Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Selected entries: 1"}
+{"level":30,"time":"2022-09-22T01:15:12.979Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:12.980Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method click"}
+{"level":30,"time":"2022-09-22T01:15:12.980Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-09-22T01:15:13.245Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method click"}
+{"level":30,"time":"2022-09-22T01:15:13.247Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:13.247Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-09-22T01:15:13.300Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:13.301Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:13.301Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-09-22T01:15:13.332Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:13.333Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:13.333Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-09-22T01:15:13.354Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:13.356Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:13.356Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-09-22T01:15:13.375Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Option entries: 20"}
+{"level":30,"time":"2022-09-22T01:15:13.375Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Selected entries: 1"}
+{"level":30,"time":"2022-09-22T01:15:13.375Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:13.376Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method click"}
+{"level":30,"time":"2022-09-22T01:15:13.376Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-09-22T01:15:13.825Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method click"}
+{"level":30,"time":"2022-09-22T01:15:13.826Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:13.826Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-09-22T01:15:13.908Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:13.909Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:13.910Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-09-22T01:15:13.928Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:13.929Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:13.929Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-09-22T01:15:13.949Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:13.950Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:13.950Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-09-22T01:15:13.970Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Option entries: 20"}
+{"level":30,"time":"2022-09-22T01:15:13.970Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Selected entries: 1"}
+{"level":30,"time":"2022-09-22T01:15:13.970Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:13.972Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method click"}
+{"level":30,"time":"2022-09-22T01:15:13.972Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-09-22T01:15:14.084Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method click"}
+{"level":30,"time":"2022-09-22T01:15:14.087Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:14.087Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-09-22T01:15:14.162Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:14.163Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:14.163Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-09-22T01:15:14.183Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:14.184Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:14.184Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-09-22T01:15:14.206Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:14.208Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:14.208Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-09-22T01:15:14.226Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Option entries: 20"}
+{"level":30,"time":"2022-09-22T01:15:14.227Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Selected entries: 1"}
+{"level":30,"time":"2022-09-22T01:15:14.227Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:14.228Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method click"}
+{"level":30,"time":"2022-09-22T01:15:14.228Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-09-22T01:15:14.459Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method click"}
+{"level":30,"time":"2022-09-22T01:15:14.461Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:14.461Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-09-22T01:15:14.532Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:14.533Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:14.533Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-09-22T01:15:14.563Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:14.564Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:14.565Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-09-22T01:15:14.587Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method typeText"}
+{"level":30,"time":"2022-09-22T01:15:14.589Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:14.589Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-09-22T01:15:14.608Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Option entries: 20"}
+{"level":30,"time":"2022-09-22T01:15:14.608Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Selected entries: 1"}
+{"level":30,"time":"2022-09-22T01:15:14.608Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-09-22T01:15:14.609Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method click"}
+{"level":30,"time":"2022-09-22T01:15:14.609Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-09-22T01:15:15.033Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method click"}
+{"level":30,"time":"2022-09-22T01:15:15.035Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-09-22T01:15:15.035Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=div.sales-summary in page."}
+{"level":30,"time":"2022-09-22T01:15:15.184Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2022-09-22T01:15:15.186Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2022-09-22T01:15:15.187Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with css=#sales-results in page."}
+{"level":30,"time":"2022-09-22T01:15:15.202Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Retrieved dom property for element css=#sales-results containing <div id=\"sales-results\"><table class=\"table table-dark table-striped\"><thead><tr><th width=\"24%\" scope=\"col\">Name</th><th width=\"24%\" scope=\"col\">Target</th><th width=\"24%\" scope=\"col\">Result</th><th width=\"24%\" scope=\"col\">Difference</th></tr></thead><tbody><tr><td>Vincenty Stannering</td><td>$30,000</td><td>$109,884</td><td>$79,884</td></tr><tr><td>Petronille Lesor</td><td>$85,000</td><td>$54,805</td><td>$-30,195</td></tr><tr><td>Abra Heap</td><td>$100,000</td><td>$5,937</td><td>$-94,063</td></tr><tr><td>Dorie Batistelli</td><td>$95,000</td><td>$42,450</td><td>$-52,550</td></tr><tr><td>Valenka Tantrum</td><td>$65,000</td><td>$137,708</td><td>$72,708</td></tr><tr><td>Regina Gurling</td><td>$15,000</td><td>$86,186</td><td>$71,186</td></tr><tr><td>Hortensia Leal</td><td>$70,000</td><td>$29,530</td><td>$-40,470</td></tr><tr><td>Jenine Kidby</td><td>$60,000</td><td>$133,576</td><td>$73,576</td></tr><tr><td>Rufus Bewlie</td><td>$85,000</td><td>$119,258</td><td>$34,258</td></tr><tr><td>Gaylord Uebel</td><td>$90,000</td><td>$27,872</td><td>$-62,128</td></tr><tr><td>Jemie Tunnacliffe</td><td>$50,000</td><td>$64,130</td><td>$14,130</td></tr><tr><td>Donia Messenbird</td><td>$75,000</td><td>$52,436</td><td>$-22,564</td></tr><tr><td>Bliss Burgess</td><td>$35,000</td><td>$138,542</td><td>$103,542</td></tr><tr><td>Milena Gudeman</td><td>$45,000</td><td>$24,287</td><td>$-20,713</td></tr><tr><td>Flossie Gurr</td><td>$85,000</td><td>$111,068</td><td>$26,068</td></tr><tr><td>Cathleen Tinklin</td><td>$35,000</td><td>$113,898</td><td>$78,898</td></tr><tr><td>Alikee Kohtler</td><td>$15,000</td><td>$141,102</td><td>$126,102</td></tr><tr><td>Ameline Olivello</td><td>$80,000</td><td>$60,101</td><td>$-19,899</td></tr><tr><td>Claus Bawcock</td><td>$25,000</td><td>$140,602</td><td>$115,602</td></tr><tr><td>Jelene Pridden</td><td>$35,000</td><td>$91,489</td><td>$56,489</td></tr><tr><td>Tiffany Emerine</td><td>$50,000</td><td>$124,313</td><td>$74,313</td></tr><tr><td>Ariadne Kiessel</td><td>$70,000</td><td>$86,637</td><td>$16,637</td></tr><tr><td>Abbe Aldcorn</td><td>$60,000</td><td>$97,489</td><td>$37,489</td></tr><tr><td>Bibi Rosita</td><td>$30,000</td><td>$94,131</td><td>$64,131</td></tr><tr><td>Thurstan Karus</td><td>$50,000</td><td>$131,244</td><td>$81,244</td></tr><tr><td>Madelyn Sire</td><td>$60,000</td><td>$66,825</td><td>$6,825</td></tr><tr><td>Christy Iwaszkiewicz</td><td>$100,000</td><td>$91,465</td><td>$-8,535</td></tr><tr><td>Mahalia Goodee</td><td>$45,000</td><td>$46,997</td><td>$1,997</td></tr><tr><td>Florence Mundow</td><td>$10,000</td><td>$122,953</td><td>$112,953</td></tr><tr><td>Isaac Asimov</td><td>$65,000</td><td>$118,852</td><td>$53,852</td></tr><tr><td>Mickie Linbohm</td><td>$10,000</td><td>$80,516</td><td>$70,516</td></tr><tr><td>Emyle O'Driscole</td><td>$10,000</td><td>$70,981</td><td>$60,981</td></tr><tr><td>Devi Oag</td><td>$10,000</td><td>$140,919</td><td>$130,919</td></tr><tr><td>Myrtle Puddle</td><td>$10,000</td><td>$22,729</td><td>$12,729</td></tr><tr><td>Casar Kubek</td><td>$100,000</td><td>$143,750</td><td>$43,750</td></tr><tr><td>Nathanil Bragg</td><td>$35,000</td><td>$100,336</td><td>$65,336</td></tr><tr><td>Fred Mengoni</td><td>$5,000</td><td>$131,725</td><td>$126,725</td></tr><tr><td>Anabella Blindermann</td><td>$85,000</td><td>$43,564</td><td>$-41,436</td></tr><tr><td>Donnamarie Watts</td><td>$85,000</td><td>$25,924</td><td>$-59,076</td></tr><tr><td>Antoni Degoe</td><td>$75,000</td><td>$106,991</td><td>$31,991</td></tr><tr><td>Belinda Blumenthal</td><td>$70,000</td><td>$115,410</td><td>$45,410</td></tr><tr><td>Lelah Yewdale</td><td>$100,000</td><td>$122,695</td><td>$22,695</td></tr><tr><td>Pearline Fenton</td><td>$35,000</td><td>$78,556</td><td>$43,556</td></tr><tr><td>Ahmed Vasnetsov</td><td>$60,000</td><td>$50,211</td><td>$-9,789</td></tr><tr><td>Ninnette Heinssen</td><td>$25,000</td><td>$63,808</td><td>$38,808</td></tr><tr><td>Yoko Flecknell</td><td>$50,000</td><td>$139,701</td><td>$89,701</td></tr><tr><td>Jocelyn Thomsson</td><td>$95,000</td><td>$99,354</td><td>$4,354</td></tr><tr><td>Dallon Seals</td><td>$15,000</td><td>$61,456</td><td>$46,456</td></tr><tr><td>Conte Mascetti</td><td>$35,000</td><td>$141,182</td><td>$106,182</td></tr><tr><td>David Heazel</td><td>$30,000</td><td>$80,193</td><td>$50,193</td></tr></tbody></table></div>"}
+{"level":30,"time":"2022-09-22T01:15:15.202Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2022-09-22T01:15:15.359Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method click"}
+{"level":30,"time":"2022-09-22T01:15:15.359Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Strict mode is enabled, find Locator with text=Log out in page."}
+{"level":30,"time":"2022-09-22T01:15:15.379Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method click"}
+{"level":30,"time":"2022-09-22T01:15:15.381Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2022-09-22T01:15:15.389Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"Removed page=2ae47285-e03f-40e4-99af-bfe35f6446d7 from context=7a5c2fad-f0fa-4120-89b4-504e3a35002c page stack"}
+{"level":30,"time":"2022-09-22T01:15:15.414Z","pid":14539,"hostname":"sergioherrera-HP-Laptop-14-cf3xxx","msg":"End of node method closeAllBrowsers"}
